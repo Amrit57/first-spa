@@ -1,0 +1,61 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Introduction to Blogging",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget...",
+      "author": "John Doe",
+      "publicationDate": "2024-01-21",
+      "comments": [
+        {
+          "id": 101,
+          "author": "Alice",
+          "text": "Great post! Looking forward to more."
+        },
+        {
+          "id": 102,
+          "author": "Bob",
+          "text": "Interesting read. Thanks for sharing!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tips for Effective Writing",
+      "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...",
+      "author": "Jane Smith",
+      "publicationDate": "2024-01-22",
+      "comments": [
+        {
+          "id": 201,
+          "author": "Charlie",
+          "text": "These tips are really helpful. Thanks!"
+        },
+        {
+          "id": 202,
+          "author": "David",
+          "text": "I'll apply these suggestions in my writing. Great advice!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Exploring Nature: A Photo Blog",
+      "content": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo...",
+      "author": "Emily Green",
+      "publicationDate": "2024-01-23",
+      "comments": [
+        {
+          "id": 301,
+          "author": "Frank",
+          "text": "Amazing photos! Nature is truly beautiful."
+        },
+        {
+          "id": 302,
+          "author": "Grace",
+          "text": "I love your photography. Keep sharing more!"
+        }
+      ]
+    }
+  ]
+}
